@@ -1,1 +1,2 @@
-version-1
+config:
+  info:"marster branch,spring-cloud/config-dev.yml version-1"
